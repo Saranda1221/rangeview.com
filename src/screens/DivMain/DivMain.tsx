@@ -1,0 +1,461 @@
+import React from "react";
+
+export const DivMain = (): JSX.Element => {
+  return (
+   <div className="flex flex-row min-h-screen justify-center items-center">
+    <div className="relative w-[1920px] h-[6555px] bg-white">
+      <div className="absolute w-[1710px] h-[849px] top-[957px] left-[105px]">
+        <div className="absolute w-[1200px] h-[183px] top-0 left-[255px]">
+          <p className="absolute w-[778px] h-[25px] top-[14px] left-[214px] [font-family:'Inter',Helvetica] font-normal text-black text-[23.4px] text-center tracking-[5.00px] leading-[30px] whitespace-nowrap">
+            IN THE HEART OF OCONEE NATIONAL FOREST
+          </p>
+          <p className="absolute w-[822px] h-[56px] top-[63px] left-[192px] [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[14.1px] text-center tracking-[0.50px] leading-[24.9px]">
+            Situated in the heart of Oconee National Forest, overlooking the Oconee lake and
+            <br />
+            with panoramic views across a calming mountain range. Rangeview is a tranquil enclave on the
+            <br />
+            doorstep of the vibrant national forest.
+          </p>
+        </div>
+        <div className="absolute w-[1710px] h-[668px] top-[181px] left-0">
+          <div className="relative w-[1735px] h-[668px]">
+            <div className="absolute w-[1710px] h-[668px] top-0 left-0">
+              <div className="absolute w-[570px] h-[668px] top-0 left-0">
+                <div className="absolute w-[550px] h-[250px] top-[418px] left-[10px]">
+                  <div className="absolute w-[317px] h-[34px] top-[15px] left-[20px]">
+                    <div className="absolute w-[416px] h-[24px] top-[2px] left-0 [font-family:'Inter',Helvetica] font-normal text-black text-[18px] tracking-[2.50px] leading-[23.9px] whitespace-nowrap">
+                      OCONEE NATIONAL FOREST GUIDE
+                    </div>
+                  </div>
+                  <div className="absolute w-[510px] h-[100px] top-[56px] left-[20px]">
+                    <p className="absolute w-[490px] h-[92px] top-[2px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.9px] tracking-[0.50px] leading-[24.9px]">
+                      Immerse yourself in the fascinating heritage of Oconee National Forest.Soak up the vibrant
+                      atmosphere while you hike scenic trails, wander local neighbourhoods or sample local wine and
+                      cuisine.
+                    </p>
+                  </div>
+                  <div className="absolute w-[80px] h-[42px] top-[179px] left-[20px]">
+                    <div className="relative w-[70px] h-[22px] top-[5px] left-[5px] overflow-hidden">
+                      <div className="w-[70px] h-[12px] top-[4px] left-0 font-bold text-neutral-800 text-[11px] leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                        EXPLORE
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <img
+                  className="absolute w-[560px] h-[411px] top-0 left-0 object-cover"
+                  alt="Img"
+                  src="https://c.animaapp.com/ntmhFnH9/img/c9dfa328ef150126b9c29eebca024df69c89f81c-1.png"
+                />
+              </div>
+              <img
+                className="absolute w-[560px] h-[412px] top-0 left-[1150px] object-cover"
+                alt="Img"
+                src="https://c.animaapp.com/ntmhFnH9/img/ebbc0961ad7a40d1b813196ee8961e8527aff942-2.png"
+              />
+              <div className="absolute w-[570px] h-[668px] top-0 left-[570px]">
+                <div className="absolute w-[550px] h-[412px] top-0 left-[10px] overflow-hidden">
+                  <div className="relative w-[610px] h-[458px] top-[-23px] left-[-30px] bg-cover bg-[50%_50%]" />
+                </div>
+                <div className="absolute w-[550px] h-[250px] top-[418px] left-[10px]">
+                  <div className="top-[18px] left-[20px] absolute w-[339px] h-[34px]">
+                    <p className="absolute w-[456px] h-[23px] top-0 left-0 [font-family:'Inter',Helvetica] font-normal text-black text-[17.9px] tracking-[2.50px] leading-[23.9px] whitespace-nowrap">
+                      HEALING: LOCAL HERBS AND TEAS
+                    </p>
+                  </div>
+                  <div className="absolute w-[510px] h-[100px] top-[56px] left-[20px]">
+                    <p className="absolute w-[502px] h-[92px] top-[2px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.9px] tracking-[0.50px] leading-[24.9px]">
+                      Discover the story of healing herbs, from its early uses by indigenous people to its modern status
+                      as one of the region’s favourite exports. Try our signature blend&nbsp;&nbsp;tea, served in a
+                      choice of cinematic settings.
+                    </p>
+                  </div>
+                  <div className="absolute w-[87px] h-[42px] top-[178px] left-[20px]">
+                    <div className="relative w-[77px] h-[22px] top-[5px] left-[5px] overflow-hidden">
+                      <div className="absolute w-[78px] h-[12px] top-[4px] left-0 [font-family:'Inter',Helvetica] font-bold text-neutral-800 text-[11px] tracking-[2.50px] leading-[12px] whitespace-nowrap">
+                        DISCOVER
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute w-[502px] h-[95px] top-[470px] left-[1173px]">
+                <div className="top-0 left-[126px] absolute w-[339px] h-[34px]">
+                  <div className="absolute w-[456px] h-[23px] top-[-38px] left-[-132px] [font-family:'Inter',Helvetica] font-normal text-black text-[17.9px] tracking-[2.50px] leading-[23.9px] whitespace-nowrap">
+                    PEACEFUL PRIVACY
+                  </div>
+                </div>
+                <p className="absolute w-[502px] h-[92px] top-[3px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.9px] tracking-[0.50px] leading-[24.9px]">
+                  Enjoy ultimate privacy whilst sharing your space and view only with the birds and trees. Indulge in
+                  the blissful feeling of peaceful contentment midst calming natural colors and textures.
+                </p>
+              </div>
+              <div className="absolute w-[78px] h-[12px] top-[594px] left-[1184px] [font-family:'Inter',Helvetica] font-bold text-neutral-800 text-[11px] tracking-[2.50px] leading-[12px] whitespace-nowrap">
+                STAY
+              </div>
+            </div>
+            <img
+              className="absolute w-[60px] h-[60px] top-[190px] left-[1675px]"
+              alt="Div carouselswiper"
+              src="https://c.animaapp.com/ntmhFnH9/img/div-carouselswiper-styles-scss--swipernextbtn.svg"
+            />
+          </div>
+        </div>
+      </div>
+      <div className="absolute w-[1920px] h-[707px] top-[1841px] left-0 bg-cover bg-[50%_50%]">
+        <div className="relative w-[1200px] h-[527px] top-[90px] left-[360px]">
+          <div className="absolute w-[360px] h-[527px] top-0 left-[840px] border-t [border-top-style:solid] border-b [border-bottom-style:solid] border-black">
+            <div className="absolute w-[300px] h-[60px] top-[175px] left-[30px]">
+              <div className="w-[300px] h-[60px] left-0 absolute top-0">
+                <div className="absolute w-[262px] h-[56px] top-[-40px] left-[19px] [font-family:'Inter',Helvetica] font-normal text-black text-[23.4px] text-center tracking-[5.00px] leading-[30px]">
+                  SPACIOUS STAYS
+                </div>
+              </div>
+              <div className="absolute w-[120px] h-px top-[46px] left-[90px] border-b [border-bottom-style:solid] border-neutral-800" />
+            </div>
+            <div className="absolute w-[325px] h-[74px] top-[276px] left-[30px]">
+              <p className="absolute w-[312px] h-[67px] top-[2px] left-[-4px] [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[14.2px] text-center tracking-[0.50px] leading-[24.9px]">
+                Indulge in breathtaking views of Oconee National Forest and lake Oconee from Rangeview’s rooms and
+                suites.
+              </p>
+            </div>
+            <div className="w-[300px] top-[371px] left-[30px] absolute h-[46px]">
+              <button className="relative w-[180px] h-[46px] left-[60px] border border-solid border-black cursor-pointer">
+                <div className="absolute w-[70px] h-[12px] top-[16px] left-[55px] [font-family:'Inter',Helvetica] font-bold text-black text-[11px] text-center tracking-[2.50px] leading-[12px] whitespace-nowrap">
+                  RESERVE
+                </div>
+              </button>
+            </div>
+          </div>
+          <img
+            className="absolute w-[815px] h-[527px] top-0 left-[-54px] object-cover"
+            alt="Element"
+            src="https://c.animaapp.com/ntmhFnH9/img/0925910--3-1.png"
+          />
+        </div>
+      </div>
+      <div className="absolute w-[1920px] h-[2573px] top-[2673px] left-0">
+        <div className="absolute w-[1920px] h-[1052px] top-0 left-0">
+          <div className="relative w-[1200px] h-[1052px] left-[360px]">
+            <div className="absolute w-[388px] h-[30px] top-[119px] left-[60px] [font-family:'Inter',Helvetica] font-normal text-black text-[24px] tracking-[5.00px] leading-[30px] whitespace-nowrap">
+              OUTSIDE, EVEN INSIDE
+            </div>
+            <p className="absolute w-[360px] h-[141px] top-[652px] left-[720px] [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.8px] tracking-[0.50px] leading-[24.9px]">
+              The open views surrounding the entire building allow you to feel like being outside, even when you are
+              enjoying your meal from inside your suite or room. Natural views. Everywhere.
+            </p>
+            <button className="absolute w-[180px] h-[46px] top-[814px] left-[720px] border border-solid border-black cursor-pointer">
+              <div className="w-[70px] h-[12px] top-[16px] left-[55px] font-bold text-black text-[11px] text-center leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                EXPLORE
+              </div>
+            </button>
+            <img
+              className="absolute w-[382px] h-[472px] top-[120px] left-[720px] object-cover"
+              alt="Caption"
+              src="https://c.animaapp.com/ntmhFnH9/img/caption-1@2x.png"
+            />
+            <img
+              className="absolute w-[644px] h-[737px] top-[169px] left-0 object-cover"
+              alt="Riverside chalet"
+              src="https://c.animaapp.com/ntmhFnH9/img/riverside-chalet-1.png"
+            />
+          </div>
+        </div>
+        <div className="absolute w-[1920px] h-[1280px] top-[931px] left-0">
+          <div className="relative w-[1861px] h-[920px] top-[246px]">
+            <div className="absolute w-[1320px] h-[740px] top-[180px] left-0 bg-white">
+              <div className="relative h-[1172px] top-[-492px] left-[-37px]">
+                <div className="absolute w-[1320px] h-[1172px] top-0 left-0">
+                  <div className="relative w-[360px] h-[1172px] left-[915px]">
+                    <div className="absolute w-[315px] h-[75px] top-[584px] left-[22px]">
+                      <p className="absolute w-[312px] h-[67px] top-[2px] left-[2px] [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.9px] text-center tracking-[0.50px] leading-[24.9px]">
+                        Choose from our spacious suites and enjoy access to a private kitchen.
+                      </p>
+                    </div>
+                    <div className="absolute w-[315px] h-[121px] top-[448px] left-[22px]">
+                      <div className="absolute w-[283px] h-[86px] top-px left-[16px] [font-family:'Inter',Helvetica] font-normal text-black text-[23.8px] text-center tracking-[5.00px] leading-[30px]">
+                        OWN YOUR KITCHEN
+                      </div>
+                      <div className="absolute w-[105px] h-[21px] top-[90px] left-[105px] border-b [border-bottom-style:solid] border-black" />
+                    </div>
+                    <div className="w-[315px] top-[678px] left-[22px] absolute h-[46px]">
+                      <button className="relative w-[180px] h-[46px] left-[68px] border border-solid border-black cursor-pointer">
+                        <div className="w-[70px] h-[12px] top-[16px] left-[55px] font-bold text-black text-[11px] text-center leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                          EXPLORE
+                        </div>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <img
+                  className="absolute w-[826px] h-[542px] top-[312px] left-[100px] object-cover"
+                  alt="The kitchen and"
+                  src="https://c.animaapp.com/ntmhFnH9/img/the-kitchen-and-dining-area-at-little-milford-lodge-pembrokeshir.png"
+                />
+              </div>
+            </div>
+            <img
+              className="absolute w-[625px] h-[547px] top-0 left-[1236px] object-cover"
+              alt="Element"
+              src="https://c.animaapp.com/ntmhFnH9/img/0925910--5-1.png"
+            />
+          </div>
+        </div>
+        <div className="absolute w-[1920px] h-[517px] top-[2056px] left-0 bg-white">
+          <div className="relative w-[1200px] h-[517px] left-[360px] bg-white">
+            <div className="absolute w-[360px] h-[517px] top-0 left-0">
+              <div className="absolute w-[320px] h-[60px] top-[111px] left-[20px]">
+                <div className="absolute w-[283px] h-[56px] top-px left-[19px] [font-family:'Inter',Helvetica] font-normal text-black text-[24px] text-center tracking-[5.00px] leading-[30px]">
+                  YOUR OCONEE NATIONAL PARK
+                  <br />
+                  ADVENTURE
+                </div>
+              </div>
+              <div className="absolute w-[120px] h-px top-[194px] left-[120px] border-b [border-bottom-style:solid] border-neutral-800" />
+              <div className="absolute w-[320px] h-[124px] top-[215px] left-[20px]">
+                <p className="absolute w-[317px] h-[117px] top-[2px] left-[2px] [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.8px] text-center tracking-[0.50px] leading-[24.9px]">
+                  Discover the best of Oconee National Park with our curated experiences including hiking and
+                  paddle-boarding, and biking.
+                </p>
+              </div>
+              <div className="w-[320px] top-[360px] left-[20px] absolute h-[46px]">
+                <button className="relative w-[180px] h-[46px] left-[70px] border border-solid border-black cursor-pointer">
+                  <div className="w-[70px] h-[12px] top-[16px] left-[55px] font-bold text-black text-[11px] text-center leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                    EXPLORE
+                  </div>
+                </button>
+              </div>
+            </div>
+            <div className="absolute w-[810px] h-[517px] top-0 left-[405px]">
+              <div className="absolute w-[270px] h-[517px] top-0 left-0">
+                <div className="absolute w-[240px] h-[177px] top-[340px] left-[15px]">
+                  <div className="w-[220px] h-[35px] left-[20px] absolute top-0">
+                    <div className="absolute w-[193px] h-[20px] top-px left-0 [font-family:'Inter',Helvetica] font-normal text-black text-[18px] tracking-[2.50px] leading-[25px] whitespace-nowrap">
+                      OUTDOOR DINING
+                    </div>
+                  </div>
+                  <div className="absolute w-[220px] h-[100px] top-[35px] left-[20px]">
+                    <p className="absolute w-[189px] h-[67px] top-[3px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.9px] tracking-[0.50px] leading-[25px]">
+                      Enjoy your meals outside anywhere on the property.
+                    </p>
+                  </div>
+                  <div className="absolute w-[220px] h-[37px] top-[140px] left-[20px]">
+                    <div className="relative w-[70px] h-[22px] top-[10px] overflow-hidden">
+                      <div className="w-[70px] h-[12px] top-[4px] left-0 font-bold text-neutral-800 text-[11px] leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                        EXPLORE
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <img
+                  className="absolute w-[243px] h-[317px] top-0 left-0 object-cover"
+                  alt="Images"
+                  src="https://c.animaapp.com/ntmhFnH9/img/images-1@2x.png"
+                />
+              </div>
+              <div className="left-[270px] absolute w-[270px] h-[517px] top-0">
+                <div className="absolute w-[240px] h-[177px] top-[340px] left-[15px]">
+                  <div className="w-[220px] h-[35px] left-[20px] absolute top-0">
+                    <div className="absolute w-[230px] h-[20px] top-px left-[-7px] [font-family:'Inter',Helvetica] font-normal text-black text-[18px] tracking-[2.50px] leading-[25px] whitespace-nowrap">
+                      INDOOR EVERYTHING
+                    </div>
+                  </div>
+                  <div className="absolute w-[220px] h-[100px] top-[35px] left-[20px]">
+                    <p className="absolute w-[199px] h-[67px] top-[3px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[14.1px] tracking-[0.50px] leading-[25px]">
+                      Bring any meal or activity inside your room.
+                    </p>
+                  </div>
+                  <div className="absolute w-[220px] h-[37px] top-[140px] left-[20px]">
+                    <div className="relative w-[70px] h-[22px] top-[10px] overflow-hidden">
+                      <div className="w-[70px] h-[12px] top-[4px] left-0 font-bold text-neutral-800 text-[11px] leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                        EXPLORE
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <img
+                  className="absolute w-[260px] h-[317px] top-0 left-0 object-cover"
+                  alt="Milford sound lodge"
+                  src="https://c.animaapp.com/ntmhFnH9/img/milford-sound-lodge-new-zealand-20-1@2x.png"
+                />
+              </div>
+              <div className="left-[540px] absolute w-[270px] h-[517px] top-0">
+                <div className="absolute w-[240px] h-[177px] top-[340px] left-[15px]">
+                  <div className="absolute w-[220px] h-[108px] top-0 left-[20px]">
+                    <div className="absolute w-[220px] h-[60px] top-0 left-0">
+                      <div className="w-[144px] h-[45px] top-[-10px] left-0 font-normal text-black text-[17.7px] leading-[25px] absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                        EXPLORE
+                      </div>
+                    </div>
+                    <div className="absolute w-[220px] h-[75px] top-[33px] left-0">
+                      <p className="absolute w-[219px] h-[67px] top-[3px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[13.9px] tracking-[0.50px] leading-[25px]">
+                        Rent a vehicle, bike or stand up paddle and go explore.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="absolute w-[220px] h-[37px] top-[140px] left-[20px]">
+                    <div className="relative w-[70px] h-[22px] top-[10px] overflow-hidden">
+                      <div className="w-[70px] h-[12px] top-[4px] left-0 font-bold text-neutral-800 text-[11px] leading-[12px] whitespace-nowrap absolute [font-family:'Inter',Helvetica] tracking-[2.50px]">
+                        EXPLORE
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <img
+                  className="absolute w-[255px] h-[321px] top-0 left-[15px] object-cover"
+                  alt="Img"
+                  src="https://c.animaapp.com/ntmhFnH9/img/df9c9909a5ecd890b9ad8d069b9582ee1b8b0c25-1@2x.png"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute w-[1920px] h-[1404px] top-[5503px] left-0">
+        <div className="absolute w-[180px] h-[46px] top-[906px] left-[120px] border border-solid border-white">
+          <div className="absolute w-[91px] h-[12px] top-[16px] left-[45px] [font-family:'Inter',Helvetica] font-bold text-white text-[11px] text-center tracking-[2.50px] leading-[12px] whitespace-nowrap">
+            PLAY VIDEO
+          </div>
+        </div>
+        <img
+          className="absolute w-[1920px] h-[1404px] top-0 left-0 object-cover"
+          alt="Pompolona lodge"
+          src="https://c.animaapp.com/ntmhFnH9/img/pompolona-lodge-milford-track-ultimate-hikes-1.png"
+        />
+      </div>
+      <div className="absolute w-[1918px] h-[914px] top-[-4px] left-[2px]">
+        <div className="absolute w-[1880px] h-px top-[77px] left-[18px] bg-[#ffffff33]" />
+        <img
+          className="absolute w-[14px] h-[14px] top-[34px] left-[124px]"
+          alt="Header link img"
+          src="https://c.animaapp.com/ntmhFnH9/img/header---link---img.svg"
+        />
+        <img
+          className="w-[14px] h-[14px] left-[80px] absolute top-[34px]"
+          alt="Header button img"
+          src="https://c.animaapp.com/ntmhFnH9/img/header---button---img.svg"
+        />
+        <div className="absolute w-[101px] h-[12px] top-[33px] left-[163px] [font-family:'Inter',Helvetica] font-bold text-white text-[11px] text-center tracking-[2.50px] leading-[16.0px] whitespace-nowrap">
+          NEWSLETTER
+        </div>
+        <div className="absolute w-[71px] h-[12px] top-[33px] left-[284px] [font-family:'Inter',Helvetica] font-bold text-white text-[11px] text-center tracking-[2.50px] leading-[16.0px] whitespace-nowrap">
+          RESORTS
+        </div>
+        <div className="w-[15px] h-[12px] left-[34px] [font-family:'Inter',Helvetica] font-bold text-white text-[11px] text-center tracking-[0] leading-[normal] whitespace-nowrap absolute top-[34px]">
+          EN
+        </div>
+        <div className="absolute w-[152px] h-[57px] top-[12px] left-[882px] bg-[url(https://c.animaapp.com/ntmhFnH9/img/header---link---ebff87d9dfcd47a4a91f1abb19c87c2f@2x.png)] bg-cover bg-[50%_50%]" />
+        <div className="absolute w-[94px] h-[45px] top-[78px] left-[586px]">
+          <div className="absolute w-[67px] h-[15px] top-[13px] left-[14px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+            OFFERS
+          </div>
+        </div>
+        <div className="absolute w-[8px] h-[17px] top-[91px] left-[680px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+          •
+        </div>
+        <div className="absolute w-[187px] h-[45px] top-[78px] left-[687px]">
+          <div className="absolute w-[159px] h-[15px] top-[13px] left-[14px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+            ACCOMMODATION
+          </div>
+        </div>
+        <div className="absolute w-[8px] h-[17px] top-[91px] left-[874px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+          •
+        </div>
+        <div className="w-[93px] left-[881px] absolute h-[45px] top-[78px]">
+          <div className="absolute w-[65px] h-[15px] top-[13px] left-[14px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+            DINING
+          </div>
+        </div>
+        <div className="absolute w-[8px] h-[17px] top-[91px] left-[974px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+          •
+        </div>
+        <div className="w-[149px] left-[981px] absolute h-[45px] top-[78px]">
+          <div className="absolute w-[121px] h-[15px] top-[13px] left-[14px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+            EXPERIENCES
+          </div>
+        </div>
+        <div className="absolute w-[8px] h-[17px] top-[91px] left-[1130px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+          •
+        </div>
+        <div className="w-[97px] left-[1138px] absolute h-[45px] top-[78px]">
+          <div className="absolute w-[69px] h-[15px] top-[13px] left-[14px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+            EVENTS
+          </div>
+        </div>
+        <div className="absolute w-[8px] h-[17px] top-[91px] left-[1234px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+          •
+        </div>
+        <div className="w-[89px] left-[1242px] absolute h-[45px] top-[78px]">
+          <div className="absolute w-[61px] h-[15px] top-[13px] left-[14px] [font-family:'Inter',Helvetica] font-normal text-white text-[14px] text-center tracking-[2.50px] leading-[16.8px] whitespace-nowrap">
+            ABOUT
+          </div>
+        </div>
+        <img
+          className="absolute w-[1918px] h-[914px] top-0 left-0 object-cover"
+          alt="Img"
+          src="https://c.animaapp.com/ntmhFnH9/img/9dcf989f9ce2953b1b6549cc8ac82f6b949c8c23-1.png"
+        />
+        <div className="absolute w-[132px] h-[44px] top-[19px] left-[1766px] bg-white border border-solid">
+          <div className="absolute w-[83px] h-[12px] top-[15px] left-[25px] [font-family:'Inter',Helvetica] font-bold text-[#1a1a1a] text-[11px] text-center tracking-[2.50px] leading-[12px] whitespace-nowrap">
+            BOOK NOW
+          </div>
+        </div>
+        <div className="absolute w-[1380px] h-[120px] top-[759px] left-[268px] bg-white shadow-[0px_11px_50px_#0000001a]">
+          <div className="relative h-[120px] bg-white">
+            <div className="absolute w-[290px] h-[86px] top-[22px] left-[68px]">
+              <div className="absolute w-[168px] h-[12px] top-[2px] left-[20px] [font-family:'Inter',Helvetica] font-bold text-neutral-800 text-[10.8px] tracking-[2.50px] leading-[19px] whitespace-nowrap">
+                CHECK-IN/CHECK-OUT
+              </div>
+              <button className="all-[unset] box-border absolute w-[250px] h-[40px] top-[29px] left-[20px] border-b [border-bottom-style:solid] border-black">
+                <div className="absolute w-[94px] h-[12px] top-[12px] left-0 [font-family:'Inter',Helvetica] font-normal text-neutral-800 text-[11px] tracking-[1.00px] leading-[38px] whitespace-nowrap">
+                  SELECT DATES
+                </div>
+                <img
+                  className="absolute w-[15px] h-[15px] top-[12px] left-[235px]"
+                  alt="Img"
+                  src="https://c.animaapp.com/ntmhFnH9/img/img.svg"
+                />
+              </button>
+            </div>
+            <div className="w-[160px] left-[493px] absolute h-[86px] top-[22px]">
+              <div className="absolute w-[59px] h-[12px] top-[2px] left-[20px] [font-family:'Inter',Helvetica] font-bold text-neutral-800 text-[11px] tracking-[2.50px] leading-[19px] whitespace-nowrap">
+                ADULTS
+              </div>
+              <div className="absolute w-[120px] h-[40px] top-[29px] left-[20px]">
+                <div className="absolute w-[40px] h-[19px] top-[10px] left-[40px]">
+                  <div className="text-[15px] absolute w-[9px] h-[17px] top-0 left-[16px] [font-family:'Inter',Helvetica] font-bold text-black text-center tracking-[0.46px] leading-[19px] whitespace-nowrap">
+                    2
+                  </div>
+                </div>
+                <div className="absolute w-[40px] h-[40px] top-0 left-0 border border-solid border-[#666666]" />
+                <div className="absolute w-[40px] h-[40px] top-0 left-[80px] border border-solid border-[#666666]" />
+              </div>
+            </div>
+            <div className="w-[160px] left-[788px] absolute h-[86px] top-[22px]">
+              <div className="absolute w-[77px] h-[12px] top-[2px] left-[20px] [font-family:'Inter',Helvetica] font-bold text-neutral-800 text-[11px] tracking-[2.50px] leading-[19px] whitespace-nowrap">
+                CHILDREN
+              </div>
+              <div className="absolute w-[120px] h-[40px] top-[29px] left-[20px]">
+                <div className="absolute w-[40px] h-[19px] top-[10px] left-[40px]">
+                  <div className="text-[14.9px] absolute w-[9px] h-[17px] top-0 left-[16px] [font-family:'Inter',Helvetica] font-bold text-black text-center tracking-[0.46px] leading-[19px] whitespace-nowrap">
+                    0
+                  </div>
+                </div>
+                <div className="absolute w-[40px] h-[40px] top-0 left-0 border border-solid border-[#666666]" />
+                <div className="absolute w-[40px] h-[40px] top-0 left-[80px] border border-solid border-[#666666]" />
+              </div>
+            </div>
+            <div className="w-[229px] left-[1083px] absolute h-[86px] top-[22px]">
+              <button className="all-[unset] box-border relative w-[189px] h-[48px] top-[19px] left-[20px] bg-black opacity-50">
+                <div className="absolute w-[161px] h-[12px] top-[17px] left-[14px] [font-family:'Inter',Helvetica] font-bold text-white text-[11px] text-center tracking-[2.50px] leading-[12px] whitespace-nowrap">
+                  CHECK AVAILABILITY
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   </div>
+  );
+};

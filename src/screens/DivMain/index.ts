@@ -1,0 +1,1 @@
+export { DivMain } from "./DivMain";
